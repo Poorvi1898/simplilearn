@@ -1,0 +1,74 @@
+3.  Python: When do you use supervised and unsupervised learning. What are the types of
+regression?
+
+Supervised learning:     
+    Supervised learning is when we train the machine using data that is well-labelled.
+    Which means some data is already tagged with the correct answer. After that, the machine is provided 
+    with a new set of data so that the supervised learning algorithm analyses the training 
+    data and produces a correct outcome from labeled data.
+
+    example: Classification of coffee beans based on the color, shape content of caffine and so on. 
+
+    Supervised learning is classified into two categories of algorithms: 
+
+        Classification: A classification problem is when the output variable is a category, such as “Red” or “blue” , “disease” or “no disease”.
+        Regression: A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
+        Supervised learning deals with or learns with “labeled” data. This implies that some data is already tagged with the correct answer.
+
+        Types:-
+            Regression
+            Logistic Regression
+            Classification
+            Naive Bayes Classifiers
+            K-NN (k nearest neighbors)
+            Decision Trees
+            Support Vector Machine
+            etc
+
+unsupervised learning: 
+    Unsupervised learning is the training of a machine using information that is neither classified nor labeled
+    and allowing the algorithm to act on that information without guidance. Here the task of the machine is to 
+    group unsorted information according to similarities, patterns, and differences without any prior training 
+    of data. 
+    example : 
+
+    Unsupervised learning is classified into two categories of algorithms: 
+
+    Clustering: A clustering problem is where you want to discover the inherent groupings in the data, such as grouping customers by purchasing 
+    behavior.
+    Association: An association rule learning problem is where you want to discover rules that describe large portions of your data, such as 
+    people that buy X also tend to buy Y.
+
+    Types of Unsupervised Learning:-
+
+    Clustering
+
+        Exclusive (partitioning)
+        Agglomerative
+        Overlapping
+        Probabilistic
+                
+    Types of clustering: 
+
+        Hierarchical clustering
+        K-means clustering
+        Principal Component Analysis
+        Singular Value Decomposition
+        Independent Component Analysis
+
+
+Types of regression are: 
+    1. Linear Regression
+    2. Logistic Regression
+    3. Polynomial Regression
+    4. Ridge Regression
+    5. Lasso Regression
+    6. Quantile Regression
+    7. Bayesian Linear Regression
+    8. Principal Components Regression
+    9. Partial Least Squares Regression
+    10. Elastic Net Regression
+
+    
+5.  Which command is used to convert any folder into a git repository?
+    git init
